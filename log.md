@@ -10,6 +10,15 @@ same subclass! I will need to read up on this further as it's something I've yet
 
 **Link to work:** Coming soon!
 
+### Day 1: January 4, 2016
+
+**Today's Progress**: Conditional Logic, Looping and Arrays in Java
+
+**Thoughts:** Currently taking the Java Fundamentals Course on Pluralsight beginner level. I was happy to
+learn about the Switch statement which is a very underrated construct in professional development settings.
+
+**Link to work:** GitHub Repo: https://github.com/stefanvlahov/JavaFundamentals
+
 <!-- ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
