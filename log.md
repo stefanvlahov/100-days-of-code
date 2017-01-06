@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 3, 2016
+### Day 0: January 3, 2017
 
 **Today's Progress**: Head First Java Chapter 7: Inheritance and Polymorphism
 
@@ -10,7 +10,7 @@ same subclass! I will need to read up on this further as it's something I've yet
 
 **Link to work:** Coming soon!
 
-### Day 1: January 4, 2016
+### Day 1: January 4, 2017
 
 **Today's Progress**: Conditional Logic, Looping and Arrays in Java
 
@@ -19,7 +19,17 @@ learn about the Switch statement which is a very underrated construct in profess
 
 **Link to work:** GitHub Repo: https://github.com/stefanvlahov/JavaFundamentals
 
-<!-- ### Day 0: February 30, 2016 (Example 1)
+### Day 2: January 5, 2017
+
+**Today's Progress**: Representing Complex Types with Classes in Java
+
+**Thoughts:** The topic of Objects and Classes in Java is probably the most fundamental building block to
+understanding OOP. This is a topic I plan on revisiting often over the next 100 days. I especially want to
+gain a better understanding of the public and private access modifiers of variables.
+
+**Link to work:** GitHub Repo: https://github.com/stefanvlahov/JavaFundamentals
+
+<!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
