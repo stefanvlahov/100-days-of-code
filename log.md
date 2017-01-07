@@ -29,6 +29,15 @@ gain a better understanding of the public and private access modifiers of variab
 
 **Link to work:** GitHub Repo: https://github.com/stefanvlahov/JavaFundamentals
 
+### Day 3: January 6, 2017
+
+**Today's Progress**: Multiplication Table In Java Using TDD - one test still failing
+
+**Thoughts:** TDD is so difficult for me. Sometimes it feels like thinking backwards. I'm doing these
+simple programming problems in TDD so that I can hopefully get used to the process.
+
+**Link to work:** GitHub Repo: https://github.com/stefanvlahov/multiplication-table
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
