@@ -38,6 +38,15 @@ simple programming problems in TDD so that I can hopefully get used to the proce
 
 **Link to work:** GitHub Repo: https://github.com/stefanvlahov/multiplication-table
 
+### Day 4: January 7, 2017
+
+**Today's Progress**: Aspect Oriented Spring Framework in Java
+
+**Thoughts:** Today I read about Aspects in Spring (Spring in Action book). I also coded a small demo showing
+how aspects are used to create certain actions (logging or otherwise) in a small Spring Boot app.
+
+**Link to work:** GitHub Repo: https://github.com/stefanvlahov/aspects
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
