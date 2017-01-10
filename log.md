@@ -47,6 +47,16 @@ how aspects are used to create certain actions (logging or otherwise) in a small
 
 **Link to work:** GitHub Repo: https://github.com/stefanvlahov/aspects
 
+### Day 5: January 9, 2017
+
+**Today's Progress**: A List Apart Article and First 5 HackerRank 30 Days of Code Challenges in Java
+
+**Thoughts:** It's a bit of a cheat, since I did the 30 Days of Code challenges about 5 months ago. But
+I wanted to redo them this time with minimal amount of "research". I am pleasantly surprised by how far I've come.
+
+**Link to work:** HackerRank Challenges: https://www.hackerrank.com/domains/tutorials/30-days-of-code
+A List Apart Article: http://alistapart.com/article/the-high-price-of-free
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
