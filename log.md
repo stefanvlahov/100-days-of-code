@@ -57,6 +57,16 @@ I wanted to redo them this time with minimal amount of "research". I am pleasant
 **Link to work:** HackerRank Challenges: https://www.hackerrank.com/domains/tutorials/30-days-of-code
 A List Apart Article: http://alistapart.com/article/the-high-price-of-free
 
+### Day 6: January 10, 2017
+
+**Today's Progress**: Head First Java Chapter 7: Interfaces and Polymorphism
+
+**Thoughts:** This was a great chapter on OOP and how it allows us to type cleaner code and separating
+the classes by what they do, not just what they are. I am still having some trouble with the referencing
+the Object class, but I understand it a lot better than before.
+
+**Link to work:** Coming soon!
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
