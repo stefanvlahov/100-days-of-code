@@ -67,6 +67,15 @@ the Object class, but I understand it a lot better than before.
 
 **Link to work:** Coming soon!
 
+### Day 7: January 11, 2017
+
+**Today's Progress**: Class Initializers and Constructors in Java
+
+**Thoughts:** This was the first time I saw Initialization Blocks and the ability to chain
+Constructors together. I will definitely do further reading to improve my knowledge of these concepts.
+
+**Link to work:** https://github.com/stefanvlahov/JavaFundamentals
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
