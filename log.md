@@ -76,6 +76,15 @@ Constructors together. I will definitely do further reading to improve my knowle
 
 **Link to work:** https://github.com/stefanvlahov/JavaFundamentals
 
+### Day 8: January 13, 2017
+
+**Today's Progress**: Multiplication Table In Java Using TDD - Completed!
+
+**Thoughts:** I am done with this easy Java Kata. The next one I want to do is one that prints out all
+prime numbers. It should be fun!
+
+**Link to work:** https://github.com/stefanvlahov/multiplication-table
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
