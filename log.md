@@ -85,6 +85,16 @@ prime numbers. It should be fun!
 
 **Link to work:** https://github.com/stefanvlahov/multiplication-table
 
+### Day 9: January 14, 2017
+
+**Today's Progress**: Setting Up A Spring MVC using IntelliJ
+
+**Thoughts:** Spring MVC project setup is notoriously difficult due to all of the weird parts and
+dependencies that need to be taken into account. I was able to start the setup, but I'm stuck n how to include
+my JSP file :(.
+
+**Link to work:** Coming Soon!
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
