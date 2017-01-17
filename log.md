@@ -95,6 +95,17 @@ my JSP file :(.
 
 **Link to work:** Coming Soon!
 
+### Day 10: January 16, 2017
+
+**Today's Progress**: HackerRank 30 Days of Code Challenges in Java - Day 6 and Day 7 and
+FreeCodeCamp HTML & CSS Section (up to part 48).
+
+**Thoughts:** Day 6 and 7 are much more difficult then the first five. One of them requires two separate for
+loops nested within a third!!! FreeCodeCamp is super fun - the HTML section is very well done!
+
+**Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
+www.freecodecamp.com
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
