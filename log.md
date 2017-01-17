@@ -106,6 +106,17 @@ loops nested within a third!!! FreeCodeCamp is super fun - the HTML section is v
 **Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
 www.freecodecamp.com
 
+### Day 11: January 17, 2017
+
+**Today's Progress**: Constructors and Garbage Collection in Java 
+FreeCodeCamp HTML & CSS Section (finished).
+
+**Thoughts:** Happy to be reviewing Constructors again. They may be the most important part of OOP, because
+how can it work without Object creation. The Constructor Chaining concept is one I'm finally beginning to
+gain an understanding of. I also liked reviewing some Front-End stuff on FreeCodeCamp.
+
+**Link to work:** www.freecodecamp.com
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
