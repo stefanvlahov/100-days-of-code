@@ -108,7 +108,7 @@ www.freecodecamp.com
 
 ### Day 11: January 17, 2017
 
-**Today's Progress**: Constructors and Garbage Collection in Java 
+**Today's Progress**: Constructors and Garbage Collection in Java
 FreeCodeCamp HTML & CSS Section (finished).
 
 **Thoughts:** Happy to be reviewing Constructors again. They may be the most important part of OOP, because
@@ -116,6 +116,17 @@ how can it work without Object creation. The Constructor Chaining concept is one
 gain an understanding of. I also liked reviewing some Front-End stuff on FreeCodeCamp.
 
 **Link to work:** www.freecodecamp.com
+
+### Day 12: January 20, 2017
+
+**Today's Progress**: Parameters in Java
+FreeCodeCamp Responsive Design With Bootstrap (started).
+
+**Thoughts:** Interesting to learn about Parameter Overloading and the flexibility it allows when
+you need multiple method configurations. The idea of a "variable value" parameter is brand new to me.
+
+**Link to work:** https://github.com/stefanvlahov/JavaFundamentals
+www.freecodecamp.com
 
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
