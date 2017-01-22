@@ -128,6 +128,15 @@ you need multiple method configurations. The idea of a "variable value" paramete
 **Link to work:** https://github.com/stefanvlahov/JavaFundamentals
 www.freecodecamp.com
 
+### Day 13: January 21, 2017
+
+**Today's Progress**: Class Inheritance in Java.
+
+**Thoughts:** I definitely need to do a lot more practice on inheritance. It can get fairly layered quickly
+if you don't pay attention.
+
+**Link to work:** https://github.com/stefanvlahov/JavaFundamentals
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
