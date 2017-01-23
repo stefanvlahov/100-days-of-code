@@ -137,6 +137,15 @@ if you don't pay attention.
 
 **Link to work:** https://github.com/stefanvlahov/JavaFundamentals
 
+### Day 14: January 22, 2017
+
+**Today's Progress**: Building Spring Web Applications
+
+**Thoughts:** Wrestling with figuring out all the needed dependencies to get a Spring MVC app to actually
+run. Frustrating work, but I learned a lot despite the minute progress I made.
+
+**Link to work:** https://github.com/stefanvlahov/Spitter
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
