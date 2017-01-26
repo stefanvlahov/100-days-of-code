@@ -146,6 +146,33 @@ run. Frustrating work, but I learned a lot despite the minute progress I made.
 
 **Link to work:** https://github.com/stefanvlahov/Spitter
 
+### Day 14: January 22, 2017
+
+**Today's Progress**: Building Spring Web Applications
+
+**Thoughts:** Wrestling with figuring out all the needed dependencies to get a Spring MVC app to actually
+run. Frustrating work, but I learned a lot despite the minute progress I made.
+
+**Link to work:** https://github.com/stefanvlahov/Spitter
+
+### Day 16: January 24, 2017
+
+**Today's Progress**: Numbers and Statics in Java; HackerRank 30 Days of Code challenges 9 and 10
+
+**Thoughts:** The topic of "static" and "final" in Java has finally become clearer to me! I'm interested
+in learning more about it as it's a cornerstone of Java programming.
+
+**Link to work:** https://www.hackerrank.com/domains/tutorials/30-days-of-code
+
+### Day 17: January 25, 2017
+
+**Today's Progress**: Numbers and Statics in Java; FreeCodeCamp Responsive Design With Bootstrap (finished).
+
+**Thoughts:** Today I learned that Java programming requires a very detail-oriented mindset. I need to focus
+on paying attention to the details that can cause breaks in the program.
+
+**Link to work:** www.freecodecamp.com
+
 <!-- ### Day 0: February 30, 2017 (Example 1)
 ##### (delete me or comment me out)
 
